@@ -1,4 +1,4 @@
-# Operacion-de-operaciones
+# Operacion-de-polinomios
 Proyecto de Fundamentos de Programacion Brigada 8.
 Loperena Jasso Jonathan Missael.
 Martínez López Luis David.
